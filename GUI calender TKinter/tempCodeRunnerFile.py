@@ -1,0 +1,1 @@
+selectedDate.configure(foreground="gray")
